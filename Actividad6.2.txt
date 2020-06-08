@@ -1,0 +1,1 @@
+((?<=")[Rr]egex(?=")|(?<=')[Rr]egex(?=')|(?<=\[)[Rr]egex(?=\])|(?<=\W)[Rr]egex(?=\W)|^[Rr]egex|[Rr]egex$) 
